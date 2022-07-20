@@ -1,0 +1,4 @@
+db/dbdata
+__pychache__/
+/log
+src/static/admin
